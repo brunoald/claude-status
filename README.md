@@ -2,7 +2,7 @@
 
 A macOS menu bar app that shows the current [Claude](https://claude.ai) service status at a glance.
 
-![Green dot when all systems operational, orange dot when there's an active incident](https://status.claude.com)
+![ClaudeStatus screenshot](assets/screenshot.png)
 
 ## Features
 
