@@ -4,6 +4,8 @@ A macOS menu bar app that shows the current [Claude](https://claude.ai) service 
 
 ![ClaudeStatus screenshot](assets/screenshot.png)
 
+## Features
+
 - **Green dot** — all systems operational
 - **Orange dot** — active incident in progress
 - Click the icon to see the last 10 incidents with status badges and timestamps
